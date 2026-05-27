@@ -38,4 +38,3 @@ console.log(
   "Is Profitable Per Unit:",
   isProfitablePerUnit
 );
-
