@@ -15,17 +15,17 @@ let isProfitablePerUnit = profitPerUnit > 0;
 console.log("Product Name:", productName);
 
 console.log(
-  "Discounted Price (Before Tax): $",
+  "Discounted Price (Before Tax): $"+
   discountedPrice.toFixed(2)
 );
 
 console.log(
-  "Final Price With Tax: $",
+  "Final Price With Tax: $"+
   finalPriceWithTax.toFixed(2)
 );
 
 console.log(
-  "Profit Per Unit: $",
+  "Profit Per Unit: $"+
   profitPerUnit.toFixed(2)
 );
 
