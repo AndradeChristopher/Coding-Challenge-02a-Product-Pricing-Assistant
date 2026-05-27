@@ -2,8 +2,8 @@ let productName = "Wireless Dongle";
 
 let costPerUnit = 12.50;
 let basePrice = 19.99;
-let discountRate = 0.15; // 15% discount
-let salesTaxRate = 0.07; // 7% sales tax
+let discountRate = 0.15; //15% discount
+let salesTaxRate = 0.07; //7% sales tax
 let fixedMonthlyCosts = 2500;
 
 let discountedPrice = basePrice * (1 - discountRate);
